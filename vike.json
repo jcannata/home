@@ -1,0 +1,11 @@
+{
+  "version": "0.4.143",
+  "usesClientRouter": false,
+  "manifestKeyMap": {},
+  "baseServer": "/home/",
+  "baseAssets": "/home/",
+  "includeAssetsImportedByServer": true,
+  "redirects": {},
+  "trailingSlash": false,
+  "disableUrlNormalization": false
+}
