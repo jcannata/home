@@ -1,0 +1,1 @@
+import{_ as n}from"../chunks/chunk-c27b6911.js";import{c as o,o as _,F as a,b as e,d as t}from"../chunks/chunk-25c32058.js";const s={},c=e("h1",null,"about",-1),r=e("p",null,[t("Example of app using "),e("code",null,"vike"),t(".")],-1);function l(d,p){return _(),o(a,null,[c,r],64)}const f=n(s,[["render",l]]);export{f as default};
